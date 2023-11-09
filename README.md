@@ -1,2 +1,2 @@
-# Bharath-Intern
+# Bharat-Intern
 Internship Projects
